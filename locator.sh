@@ -374,14 +374,14 @@ done
 
 banner() {
 
-printf "\e[1;93m  _                                                \e[0m\n"
-printf "\e[1;93m (_)                             \e[0m\e[1;77m_                 \e[0m\n"
-printf "\e[1;77m  _        ___    ____  _____  _| |_  ___    ____  \e[0m\n"
+printf "\e[1;93m                                                  \e[0m\n"
+printf "\e[1;93m  _                           \e[0m\e[1;77m_                 \e[0m\n"
+printf "\e[1;77m | |       ___    ____  _____  _| |_  ___    ____  \e[0m\n"
 printf "\e[1;77m | |      / _ \  / ___)(____ |(_   _)/ _ \  / ___) \e[0m\n"
 printf "\e[1;77m | |_____| |_| |( (___ / ___ |  | |_| |_| || |     \e[0m\n"
 printf "\e[1;77m |_______)\___/  \____)\_____|   \__)\___/ |_|    v6.sparkz \e[0m\n"
 printf "\n"
-printf "\e[1;93m :::\e[0m\e[1;77m Coded by: @sparkz-technology\e[0m\n"
+printf "\e[1;93m ::\e[0m\e[1;77m Coded by: @sparkz-technology\e[0m\n"
 
 }
 banner
