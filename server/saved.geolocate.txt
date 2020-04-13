@@ -1,0 +1,48 @@
+Latitude: 8.2862562
+Longitude: 77.8922822
+User-Agent: Mozilla/5.0 (Linux; Android 7.1.1; Nokia 2 Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36
+Altitude: null
+Accuracy: 899.9990234375
+Speed: null
+Heading: null
+Platform: Linux armv7l
+Cores: 4
+Memory: 1
+Screen Height: 640
+Screen Width: 360
+Latitude: 11.0075
+Longitude: 76.9671
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+Altitude: null
+Accuracy: 25000
+Speed: null
+Heading: null
+Platform: Linux x86_64
+Cores: 1
+Memory: undefined
+Screen Height: 768
+Screen Width: 1366
+Latitude: 11.0075
+Longitude: 76.9671
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+Altitude: null
+Accuracy: 25000
+Speed: null
+Heading: null
+Platform: Linux x86_64
+Cores: 1
+Memory: undefined
+Screen Height: 768
+Screen Width: 1366
+Latitude: 11.0075
+Longitude: 76.9671
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+Altitude: null
+Accuracy: 25000
+Speed: null
+Heading: null
+Platform: Linux x86_64
+Cores: 1
+Memory: undefined
+Screen Height: 768
+Screen Width: 1366
