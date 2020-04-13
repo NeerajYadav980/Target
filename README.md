@@ -1,6 +1,6 @@
-# Locator v1.0
+# Locator v6.sparkz
 ## Author: github.com/sparkz-technology/locator
-## IG: instagram.com/sutharsan_sparkz
+## Instagram: instagram.com/sutharsan_sparkz
 ### Don't copy this code without give me the credits. 
 
 Geolocator, Ip Tracker, Device Info by URL (Ngrok).
