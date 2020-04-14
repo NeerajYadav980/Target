@@ -374,8 +374,8 @@ done
 
 banner() {
 
-printf "\e[1;93m                                        sparkz       \e[0m\n"
-printf "\e[1;93m  _                              _                  \e[0m\n"
+printf "\e[1;93m                                                   \e[0m\n"
+printf "\e[1;77m  _                              _                  \e[0m\n"
 printf "\e[1;77m | |       ___    ____  _____  _| |_  ___    ____  \e[0m\n"
 printf "\e[1;77m | |      / _ \  / ___)(____ |(_   _)/ _ \  / ___) \e[0m\n"
 printf "\e[1;77m | |_____| |_| |( (___ / ___ |  | |_| |_| || |     \e[0m\n"
