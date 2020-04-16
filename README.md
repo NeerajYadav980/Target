@@ -17,6 +17,7 @@ Usage of Target for attacking targets without prior mutual consent is illegal. I
 ```
 apt update && apt upgrade
 pkg install wget
+pip install lolcat
 pkg install php
 pkg install toilet
 git clone https://github.com/sparkz-technology/Target.git
