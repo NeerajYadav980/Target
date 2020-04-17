@@ -354,7 +354,7 @@ clear
 start 1
 fi
 
-}
+
 checkfound() {
 
 printf "\n"
@@ -377,6 +377,7 @@ toilet -f mono12  Target | lolcat
 
 echo -e "\e[1;34m Created By @sparkz_technology \e[1;31m              v6.sparkz"
 
+}
 }
 dependencies
 start1
