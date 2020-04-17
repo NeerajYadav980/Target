@@ -355,6 +355,7 @@ start 1
 fi
 
 }
+
 checkfound() {
 
 printf "\n"
@@ -371,7 +372,7 @@ sleep 1
 done 
 
 
-
+}
 echo -e "\e[1;32m"
 toilet -f mono12  Target | lolcat
 
