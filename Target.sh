@@ -380,4 +380,5 @@ echo -e "\e[1;34m Created By @sparkz_technology \e[1;31m              v6.sparkz"
 dependencies
 start1
 menu
+fi
 }
