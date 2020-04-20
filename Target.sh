@@ -1,7 +1,7 @@
 #!/bin/bash
-# Locator v1.1
+# Target v6.sparkz
 # Coded by: sparkz-technology (You dont become a coder by just changing the credits)
-# Github: https://github.com/sparkz-technology/locator
+# Github: https://github.com/sparkz-technology/Traget
 menu() {
 trap 'printf "\n";stop;exit 1' 2
 
