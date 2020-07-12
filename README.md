@@ -22,6 +22,8 @@ pkg install php
 pkg install toilet
 git clone https://github.com/sparkz-technology/Target.git
 cd Target
+ls
+chmod +x Target.sh
 bash Target.sh
 ```
 ### share!
